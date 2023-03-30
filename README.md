@@ -1,0 +1,1 @@
+This webpage is an attempt to make a model of Pokemon's PokeDex using the PokeAPI from https://pokeapi.co/. This is also a testament to my skills with all of my basic web fundamentals taught to me by Coding Dojo. 
